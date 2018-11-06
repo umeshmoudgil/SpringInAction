@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 @SpringBootApplication
 @RestController
-@RequestMapping(value="spring")
+@RequestMapping(value="springTest")
 public class Application {
 
     public static void main(String[] args) {
